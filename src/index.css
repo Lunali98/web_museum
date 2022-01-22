@@ -1,3 +1,29 @@
+@font-face {
+  font-family: "Lunapark One";
+  src: url("./fonts/LunaparkOne.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url("./fonts/RobotoCondensed-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("./fonts/Inter-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("./fonts/Raleway-Regular.ttf") format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Raleway Bold";
+  src: url("./fonts/Raleway-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +31,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  box-sizing: border-box;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
 }
