@@ -6,7 +6,6 @@ import SectionTitle from "../SectionTitle";
 import coursesData from '../../data/coursesData.json';
 import classNames from "classnames";
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
-cd
 const styles = theme => ({
     container: {
         height: '473px',
