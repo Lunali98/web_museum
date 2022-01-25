@@ -9,6 +9,7 @@ In the project directory, you can run:
 🍎  [Stepper](https://mui.com/components/steppers/#customized-horizontal-stepper) made a yellow step-by-step algorithm. 
 
 🍎 Other Material UI components and tools used. 
+
 https://mui.com/components/typography/#main-content
 
 https://mui.com/components/text-fields/#main-content
