@@ -1,3 +1,5 @@
+![logo](https://user-images.githubusercontent.com/71708878/150935835-91f016bc-0109-4536-8beb-3ce593bd27a7.svg)
+
 In the project directory, you can run:
 
 ### `npm start`
