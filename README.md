@@ -10,10 +10,15 @@ In the project directory, you can run:
 
 🍎 Other Material UI components and tools used. 
 https://mui.com/components/typography/#main-content
+
 https://mui.com/components/text-fields/#main-content
+
 https://mui.com/styles/api/#withstyles-styles-options-higher-order-component
+
 https://mui.com/components/app-bar/#main-content
+
 https://mui.com/components/grid/#main-content
+
 https://mui.com/components/box/#main-content
 
 🍎 This [video](https://www.youtube.com/watch?v=JU5ZoGU3wzA ) will tell you how the access to the google sheets api works
