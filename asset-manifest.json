@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.fada21bc.css",
-    "main.js": "/my-app/static/js/main.cea0136d.js",
-    "static/js/787.aebcff10.chunk.js": "/my-app/static/js/787.aebcff10.chunk.js",
-    "static/media/Inter-Regular.ttf": "/my-app/static/media/Inter-Regular.2391725004ae05a27e8e.ttf",
-    "static/media/RobotoCondensed-Regular.ttf": "/my-app/static/media/RobotoCondensed-Regular.db6d916952fb988edac1.ttf",
-    "static/media/Raleway-Regular.ttf": "/my-app/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
-    "static/media/Raleway-Bold.ttf": "/my-app/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
-    "static/media/LunaparkOne.ttf": "/my-app/static/media/LunaparkOne.a6bcd5cbe66a043f1b11.ttf",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.fada21bc.css.map": "/my-app/static/css/main.fada21bc.css.map",
-    "main.cea0136d.js.map": "/my-app/static/js/main.cea0136d.js.map",
-    "787.aebcff10.chunk.js.map": "/my-app/static/js/787.aebcff10.chunk.js.map"
+    "main.css": "/web_museum/static/css/main.071430ce.css",
+    "main.js": "/web_museum/static/js/main.52579665.js",
+    "static/js/787.aebcff10.chunk.js": "/web_museum/static/js/787.aebcff10.chunk.js",
+    "static/media/Inter-Regular.ttf": "/web_museum/static/media/Inter-Regular.2391725004ae05a27e8e.ttf",
+    "static/media/RobotoCondensed-Regular.ttf": "/web_museum/static/media/RobotoCondensed-Regular.db6d916952fb988edac1.ttf",
+    "static/media/Raleway-Regular.ttf": "/web_museum/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
+    "static/media/Raleway-Bold.ttf": "/web_museum/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/LunaparkOne.ttf": "/web_museum/static/media/LunaparkOne.a6bcd5cbe66a043f1b11.ttf",
+    "static/media/logo.svg": "/web_museum/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web_museum/index.html",
+    "main.071430ce.css.map": "/web_museum/static/css/main.071430ce.css.map",
+    "main.52579665.js.map": "/web_museum/static/js/main.52579665.js.map",
+    "787.aebcff10.chunk.js.map": "/web_museum/static/js/787.aebcff10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fada21bc.css",
-    "static/js/main.cea0136d.js"
+    "static/css/main.071430ce.css",
+    "static/js/main.52579665.js"
   ]
 }
