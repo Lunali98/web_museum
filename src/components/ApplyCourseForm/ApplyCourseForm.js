@@ -79,7 +79,8 @@ const styles = theme => ({
     }
 })
 
-const GoogleSheetsAPI = 'https://v1.nocodeapi.com/katerinaraven/google_sheets/QytxsNEQhMfOLnlr?tabId=records';
+
+const GoogleSheetsAPI = 'https://v1.nocodeapi.com/lunali98/google_sheets/MppHbAoFIUDExJSD?tabId=sheet';
 
 class ApplyCourseForm extends React.Component {
     constructor(props) {
