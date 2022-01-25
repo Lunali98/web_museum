@@ -2,8 +2,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
 🍎  [Material UI Theme](https://mui.com/customization/theming/). Handy library for react, with ready-made components that are easy to customize. Through the theme, we defined typography with the right fonts and some common colors so we could get them through a variable.
 
 🍎  [Accordion component](https://mui.com/components/accordion/#customization) helped us to make a drop-down list of lectures. The customization section is where the styling is copied from.
