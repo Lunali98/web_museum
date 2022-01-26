@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 🍎  [Material UI Theme](https://mui.com/customization/theming/). Handy library for react, with ready-made components that are easy to customize. Through the theme, we defined typography with the right fonts and some common colors so we could get them through a variable.
 
